@@ -1,0 +1,9 @@
+Package: us.necibi.mediacontrols
+Name: Media Controls
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Activator actions to properly control playback
+Maintainer: Malek Necibi
+Author: Malek Necibi
+Section: Addons (Activator)
+Depends: mobilesubstrate (>= 0.9.5000), libactivator (>= 1.8.3)
