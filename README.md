@@ -1,7 +1,7 @@
 ## Activator Listeners (Media Controls)
 
-Play - us.necibi.mediacontrols.play
+Play - switch-on.us.necibi.mediacontrols
 
-Pause - us.necibi.mediacontrols.pause
+Pause - switch-off.us.necibi.mediacontrols
 
-Toggle - us.necibi.mediacontrols.toggle
+Toggle - switch-flip.us.necibi.mediacontrols
